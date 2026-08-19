@@ -12,8 +12,8 @@ Software engineer with seven years of React and TypeScript. I enjoy spending tim
   tabletop game masters: rules answers cited down to the file and section,
   campaign state explorable in a plain-markdown Obsidian vault.
 - [quickword](https://github.com/jtrv/quickword) — Android dictionary in a
-  notification: select a word anywhere, definition arrives without an app
-  switch. 1.4M words offline, Kotlin + Compose.
+  notification: select a word anywhere, and get a definition or synonyms without an app
+  switch. 1.4M words offline, and optional 38MB corpus of the 50k top Wikipedia entries.
 - [tidetime.date](https://github.com/jtrv/tide-time-date) — A better UI/UX for NOAA tide data and non-professionals. Useful for planning tide-based activities (like tide-pooling), and it comes with calendar imports / subscriptions.
 
 ### Smaller tools
