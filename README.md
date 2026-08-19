@@ -2,8 +2,8 @@ Software engineer with seven years of React and TypeScript. I enjoy spending tim
 
 ### Current projects
 
-- shiso — local-first smart recipe manager, meal planner and grocery list. One
-  Flutter codebase, five platforms, works offline with a highly optimized UX. Synchronized recipe library, meal plans, grocery lists, and calendar integration for households. Private until release.
+- shiso — local-first smart recipe manager, meal planner and grocery list with real-time synchronization for groups. One
+  Flutter codebase, five platforms, works offline with a highly optimized UX. Private until release.
 - [baijia-suo](https://github.com/jtrv/baijia-suo) — Wayland screen locker in
   Rust: out-of-process PAM, mlocked and zeroized password buffers, fail-closed
   by protocol. Carries 66 vintage xlockmore/xscreensaver animations forward to Wayland.
